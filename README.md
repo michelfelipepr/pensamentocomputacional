@@ -1,0 +1,2 @@
+# pensamentocomputacional
+Scripts Pensamento Computacional
